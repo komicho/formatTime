@@ -1,5 +1,5 @@
 {
-	"name": "komicho/formatTime",
+	"name": "komicho/formattime",
 	"type": "library",
 	"description": "get country name and code",
 	"keywords": ["php", "time", "komicho"],
